@@ -5,7 +5,9 @@ This project demonstrates API testing using REST Assured and TestNG with jsonpla
 
 📦 com.testapi
  ┣ 📜 ApiTesting.java
- ┣ 📜 pom.xml
+ 
+ ┣ 📜 pom.
+ 
  ┗ 📜 README.md
 
 ⚡ Dependencies (pom.xml)
